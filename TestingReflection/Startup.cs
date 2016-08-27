@@ -6,6 +6,7 @@ namespace TestingReflection
 {
     public partial class Startup
     {
+        //comment added
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
